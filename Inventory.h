@@ -1,3 +1,15 @@
+/**
+ * Inventory.h
+ * Summary:
+ * A small class that allows us to track the name of a specified item
+ * in stock, the price per unit of that item, and the amount of units in stock
+ * of that item.
+ * 
+ * @member m_name: name of the item in this inventory
+ * @member m_price: price per unit of this inventory
+ * @member m_in_stock: stock count of the number of units in this inventory
+ */
+
 #ifndef _INVENTORY_
 #define _INVENTORY_
 #include <iostream>
