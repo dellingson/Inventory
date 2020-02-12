@@ -14,6 +14,8 @@ make
 
 ## Running
 
+Linux
+
 ```
 ./a.out
 ```
